@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#logo{
+text-align:center;
+}
+ul{
+	list-style-type:none;
+	display:flex;
+
+}
+.navigate{
+background-color:blue;
+	
+}
+li{
+	margin:10px;
+	cursor:pointer;
+	margin-left:10px;
+	color:white;
+	
+}
+li:hover{
+	background-color:red;
+}
+a{
+	text-decoration:none;
+}
+.opm{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXz-SRlx1ddNuBeeyxhwy4IMfcOLQFoIR7A&usqp=CAU");
+height:200px;
+	width:600px;
+	background-repeat:x-repeat;
+  margin-top:5px;
+	margin-left:50px;
+}
+
